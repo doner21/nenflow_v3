@@ -20,7 +20,7 @@ chmod +x install.sh
 ```bat
 git clone https://github.com/doner21/nenflow_v3.git
 cd nenflow_v3
-install.bat
+.\install.bat
 ```
 
 Then **restart Claude Code** to activate the commands.
